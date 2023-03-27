@@ -6,8 +6,8 @@ n_macas= float(input("Digite a quantidade de maças compradas: "))
 
 if n_macas < 12:
     n_macas = n_macas * 1.30
-    print(f" O custo total da compra é: {n_macas}")
+    print(f" O custo total da compra é {n_macas} reais")
 
 else:
     n_macas = n_macas * 1.00
-    print(f" O custo total da compra é: {n_macas}")
+    print(f" O custo total da compra é {n_macas} reais")
