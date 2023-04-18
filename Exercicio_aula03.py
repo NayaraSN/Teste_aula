@@ -1,4 +1,4 @@
-# Introdução à Programação - Lista de Execícios - Aula_03
+# INTRODUÇÃO À PROGRAMAÇÃO - Lista de Execícios - Aula 03
 
 #1) Crie um programa em Python que imprima uma mensagem que você ama programar com esta linguagem.
 nome = input('Por favor, digite seu nome: ')
