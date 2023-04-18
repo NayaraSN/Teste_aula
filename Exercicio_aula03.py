@@ -1,18 +1,19 @@
 # INTRODUÇÃO À PROGRAMAÇÃO - Lista de Execícios - Aula 03
+# Introdução ao Python - Comandos iniciais e operadores aritméticos
 
 # 1) Crie um programa em Python que imprima uma mensagem que você ama programar com esta linguagem.
-nome = input('Por favor, digite seu nome: ')
+nome = input("Por favor, digite seu nome: ")
 print(f"Olá! Sou {nome} e amo programar em Python!")
 
 # 2) Crie um programa em Python que pergunte o nome do usuário e imprima um bom dia com o nome do usuário.
 #Dica: você pode utilizar o método .format() ou uma concatenação de string, por exemplo.
-nome = input('Por favor, digite seu nome: ')
+nome = input("Por favor, digite seu nome: ")
 print(f"Olá, Sr(a). {nome}, bom dia!")
 
 # 3) Crie um programa em Python que solicite um número do usuário, depois some este número com 1357, multiplique
 #por 8, divida por 5 e eleve ao quadrado.
 
-numero = float(input('Por favor, digite um número: '))
+numero = float(input("Por favor, digite um número: "))
 numero = numero + 1357
 numero = numero * 8
 numero = numero / 5
@@ -23,7 +24,7 @@ print("O total é:", total)
 # 4) Crie um programa em Python que imprima um convite para uma festa com o nome do usuário que for digitado.
 #O nome do usuário precisará ser apresentado todo em caixa alta.
 
-nome = input('Por favor, digite seu nome: ')
+nome = input("Por favor, digite seu nome: ")
 print("_____________________________________________________________________________________________________")
 
 print(f"                 Olá, {nome.upper()}! :) \n"
