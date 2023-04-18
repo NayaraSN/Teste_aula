@@ -19,7 +19,7 @@
 
 
 # 3. Armazene os nomes de alguns de seus amigos em uma lista chamada amigos. Exiba o nome de cada
-# pessoa acessando cada elemento da lista um de cada vez.
+#pessoa acessando cada elemento da lista um de cada vez.
 
 # amigos = ("Junior", "Nayane", "Sara", "Yanka")
 #
@@ -40,7 +40,7 @@
 
 
 # 5. Utilizando a lista do exercício anterior, exiba uma saudação ("Olá como vai você"), personalizado
-# com o nome de cada amigo. A saudação deve ser a mesma, alterando apenas o nome do amigo.
+#com o nome de cada amigo. A saudação deve ser a mesma, alterando apenas o nome do amigo.
 
 # amigos = ("Junior", "Nayane", "Sara", "Yanka")
 #
